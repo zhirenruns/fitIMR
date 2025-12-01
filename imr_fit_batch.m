@@ -33,7 +33,7 @@ addpath('../graphics');
 
 %% Import Experiment
 
-input_file = 'data/alginateFatigueStuffForZ.mat'; % data/PA_10%_0.06%_WithRefined_T_c';
+input_file = 'data/PA_10%_0.06%_WithRefined_T_c';
 load(input_file);
 
 % Unless specified otherwise, treat all experiments in the batch
